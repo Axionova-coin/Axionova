@@ -36,6 +36,7 @@
 
 - Website: https://axionova.network
 - GitHub: https://github.com/axionova-coin/axionova
+- X (Twitter): https://x.com/axionova_x
 
 ---
 
